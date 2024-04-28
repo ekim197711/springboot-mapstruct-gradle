@@ -40,7 +40,7 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     implementation("org.mapstruct:mapstruct:1.6.0.Beta1")
     kapt("org.mapstruct:mapstruct-processor:1.6.0.Beta1")
-
+//    implementation("org.apache.pdfbox:pdfbox:3.0.2")
 }
 
 kapt {
